@@ -1,4 +1,4 @@
-name: Build and Release 23.05
+name: Build and Release 24.x
 
 on:
   workflow_dispatch:
